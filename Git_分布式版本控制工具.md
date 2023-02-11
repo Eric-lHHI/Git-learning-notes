@@ -291,6 +291,8 @@ git reset commitID --hard
 
 - `git branch -d 分支名` 删除分支时，需要做各种检查
 - `git branch -D 分支名` 不做任何检查，强制删除
+- E.g.
+  ![删除分支](Git_分布式版本控制工具.assets/删除分支.png)
 
 #### 3.4.8、解决冲突
 
@@ -413,9 +415,10 @@ git-log
 
 - 命令：`git push[ -f][ --set-upstream][ 远端名称[ 本地分支名[:远端分支名]]]`
   - 如果远程分支名和本地分支名称相同，则可以只写本地分支
-    - `git push origin master`
-  - `-f` 表示强制覆盖
-  - `--set-upstream` 推送到远端的同时并且建立起和远端分支的关联关系。
+    - `git push origin master`=`git push origin master:master`
+      ![推送到远程仓库-两种写法](Git_分布式版本控制工具.assets/推送到远程仓库-两种写法.png)
+  - `-f` = `--force` 表示强制覆盖
+  - `-u` = `--set-upstream` 推送到远端的同时并且建立起和远端分支的关联关系。
     - `git push --set-upstream origin master`
   - 如果**当前分支已经和远端分支关联**，则可以省略分支名和远端名。
     - `git push` 将master分支推送到已关联的远端分支。
