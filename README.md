@@ -20,6 +20,8 @@
 - [github仓库](https://github.com/Eric-lHHI/Git-learning-notes)：
   
   - 基于gitee的md文件，加入一点点课程没讲到的内容
-  - 边学边加，不排除会跟gitee上的一模一样
+  - 边学边加，不排除会跟gitee上的一模一样（？
 
-- file分支里面有官方pdf文件（被我逐页删掉了水印），或许还会有其他文件
+- 想要删了水印的官方pdf可以去files分支里面瞧瞧
+
+  或许里面还会有其他文件呢🤗
