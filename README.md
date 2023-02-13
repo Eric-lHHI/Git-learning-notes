@@ -3,6 +3,7 @@
 >  [黑马程序员B站教程链接](https://www.bilibili.com/video/BV1MU4y1Y7h5/)：BV1MU4y1Y7h5
 
 - ~~[gitee仓库](https://gitee.com/Eric_lHHI/git-handout-itheima)：~~*"当前仓库因仓库内容涉图床外链类内容，不支持设置为公开仓库"*
+
   [github仓库 Git-handout_itheima](https://github.com/Eric-lHHI/Git-handout_itheima)：
 
   - md文件由官方pdf文件整理而成
