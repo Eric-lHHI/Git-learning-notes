@@ -189,7 +189,7 @@ Git工作目录下对于文件的**修改**（增加、删除、更新）会存�
   - options
     - `--all` 显示所有分支
     - `--pretty=oneline` 将提交信息显示为一行
-    - `--abbrev-commit` 使得输出的commitId更简短
+    - `--abbrev-commit` 使得输出的commitID更简短
     - `--graph` 以图的形式显示
 
 #### 3.3.5、版本回退
