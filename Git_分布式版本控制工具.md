@@ -125,6 +125,8 @@ Git Bash：Git提供的命令行工具
    alias git-log='git log --pretty=oneline --all --graph --abbrev-commit'
    #用于输出当前目录所有文件及基本信息
    alias ll='ls -al'
+   #用于一次性暂存并提交所有修改和删除的文件
+   alias commit='git commit -a'
    ```
 3. 打开gitBash，执行`source ~/.bashrc`
    ![bashrc](Git_分布式版本控制工具.assets/bashrc.png)
@@ -179,6 +181,15 @@ Git工作目录下对于文件的**修改**（增加、删除、更新）会存�
 
 - 作用：提交暂存区内容到本地仓库的当前分支
 - 命令形式：`git commit -m '注释内容'`
+
+#### commit
+
+- 命令形式：`git commit [options]`
+  - options
+    - `-a` = `--all` 
+      automatically stage files that have been **modified and deleted**.
+      （新创建的文件仍需`git add`）
+
 
 #### 3.3.4、*查看提交日志(log)
 
