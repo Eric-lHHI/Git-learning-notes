@@ -2,7 +2,8 @@
 
 >  [黑马程序员B站教程链接](https://www.bilibili.com/video/BV1MU4y1Y7h5/)：BV1MU4y1Y7h5
 
-- [gitee仓库](https://gitee.com/Eric_lHHI/git-handout-itheima)：
+- ~~[gitee仓库](https://gitee.com/Eric_lHHI/git-handout-itheima)：~~*"当前仓库因仓库内容涉图床外链类内容，不支持设置为公开仓库"*
+  [github仓库 Git-handout_itheima](https://github.com/Eric-lHHI/Git-handout_itheima)：
 
   - md文件由官方pdf文件整理而成
 
@@ -17,10 +18,12 @@
 
   - 还有其他强迫症问题欢迎pull request
 
-- [github仓库](https://github.com/Eric-lHHI/Git-learning-notes)：
+  - 知道怎么解决gitee无法公开的问题的也可以说说
+
+- [github仓库 Git-learning-notes](https://github.com/Eric-lHHI/Git-learning-notes)：
   
-  - 基于gitee的md文件，加入一点点课程没讲到的内容
-  - 边学边加，不排除会跟gitee上的一模一样（？
+  - 基于~~gitee~~的md文件，加入一点点课程没讲到的内容
+  - 边学边加，不排除会跟~~gitee~~上的一模一样（？
 
 - 想要删了水印的官方pdf可以去files分支里面瞧瞧
 
