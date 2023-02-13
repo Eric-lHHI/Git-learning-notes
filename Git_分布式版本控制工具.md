@@ -506,6 +506,10 @@ git-log
 略
 ```
 
+#### 移除远程仓库
+
+- 命令：`git remote rm <remote-name>` = `git remote remove <remote-name>`
+
 ## 5、在Idea中使用Git
 
 ### 5.1、在Idea中配置Git
